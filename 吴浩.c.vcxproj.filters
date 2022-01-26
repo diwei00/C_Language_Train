@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="浩.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.27.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="while循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="存款翻倍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自己创建函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="define定义宏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针 存地址.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100之间的素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="switch语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="getchar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="99乘法表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n的阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分法找数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字按大小输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最大公约数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印闰年.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100以内有多少个9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="比较数组里数字大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="goto语句—电脑关机程序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自己创建函数，二分查找、.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自己创建函数 ，阶乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制中1的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="苹果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业3：交换数组内容.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="00000.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针打印数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="关机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2个整数比较二进制有多少位不同.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印二进制奇数和偶数位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘—调试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美实现strlen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美实现strcpy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数指针数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="qsort 排序任意类型数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进阶冒泡排序，任意类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="逆序字符串内容.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="水仙花数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断字符数组的对称性.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组内整数元素，奇数放前面，偶数放后面.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业.喝饮料.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="旋转字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="杨氏矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="qqqqq.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美实现strcat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美实现strcmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美实现strncpy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美实现strncat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美实现strstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strtok字符串切割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mempy完美实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="www.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="memmove完美实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ww.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="offsetof计算结构体成员偏移量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体传参.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体传参.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="位段.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="枚举.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="联合体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
